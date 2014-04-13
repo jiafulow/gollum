@@ -491,6 +491,7 @@ Gem::Specification.new do |s|
     lib/gollum/public/gollum/livepreview/js/ace/lib/ace/worker/worker_sourcemint.js
     lib/gollum/public/gollum/livepreview/js/jquery.ba-throttle-debounce.min.js
     lib/gollum/public/gollum/livepreview/js/livepreview.js
+    lib/gollum/public/gollum/livepreview/js/marked.js
     lib/gollum/public/gollum/livepreview/js/md_sundown.js
     lib/gollum/public/gollum/livepreview/js/requirejs.min.js
     lib/gollum/public/gollum/livepreview/js/sundown.js
@@ -500,6 +501,7 @@ Gem::Specification.new do |s|
     lib/gollum/public/gollum/livepreview/licenses/gollum/LICENSE.txt
     lib/gollum/public/gollum/livepreview/licenses/jquery/MIT-LICENSE.txt
     lib/gollum/public/gollum/livepreview/licenses/licenses.txt
+    lib/gollum/public/gollum/livepreview/licenses/marked/LICENSE.txt
     lib/gollum/public/gollum/livepreview/licenses/notepages/LICENSE.txt
     lib/gollum/public/gollum/livepreview/licenses/requirejs/LICENSE.txt
     lib/gollum/public/gollum/livepreview/licenses/retina_display_icon_set/by_sa_3.0_unported_legalcode.txt
